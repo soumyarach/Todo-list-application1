@@ -1,8 +1,8 @@
-# Todo-list-application1
+# To-do-list-application1
 # What I Built ? 
-I bulit this simple console-based To-Do list manager in python.The code allows users to add,remove,and view tasks & it presists the tasks in a file named tasks.txt  . 
+I built this simple console-based To-Do list manager in python.The code allows users to add,remove,and view tasks & it presists the tasks in a file named tasks.txt  . 
 # Why I Built it ? 
-I bulit this To-Do list manager to meet the requirements specified,which included:                                                          *Creating a console-based application                                                                                                 *Implementing basic to-do list functionality(add,remove,view tasks)                                                                       *Persisting tasks in a file                                                                                                             *Providing a simple and intuitive user interface
+I built this To-Do list manager to meet the requirements specified,which included:                                                          *Creating a console-based application                                                                                                 *Implementing basic to-do list functionality(add,remove,view tasks)                                                                       *Persisting tasks in a file                                                                                                             *Providing a simple and intuitive user interface
 # How I Built it ? 
 1.Task Storage :-
 *I used a list to store tasks in memory.
