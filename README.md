@@ -1,7 +1,8 @@
 # Todo-list-application1
-# What I Build ?                                                                                                                             I bulid this simple console-based To-Do list manager in python.The code allows users to add,remove,and view tasks & it presists the tasks in a file named tasks.txt  . 
-#Why I Built it ?
-I bulit this To-Do list manager to meet the requirements specified,which included:                                                             *Creating a console-based application                                                                                                 *Implementing basic to-do list functionality(add,remove,view tasks)                                                                       *Persisting tasks in a file                                                                                                             *Providing a simple and intuitive user interface
+# What I Built ? 
+I bulit this simple console-based To-Do list manager in python.The code allows users to add,remove,and view tasks & it presists the tasks in a file named tasks.txt  . 
+# Why I Built it ? 
+I bulit this To-Do list manager to meet the requirements specified,which included:                                                          *Creating a console-based application                                                                                                 *Implementing basic to-do list functionality(add,remove,view tasks)                                                                       *Persisting tasks in a file                                                                                                             *Providing a simple and intuitive user interface
 # How I Built it ? 
 1.Task Storage :-
 *I used a list to store tasks in memory.
@@ -23,6 +24,6 @@ I bulit this To-Do list manager to meet the requirements specified,which include
 5.Error Handling:-
 *I used try-except blocks to handle errors that may occur when loading or saving tasks,or when removing tasks
 
-#Overview:-
+# Overview:-
 Overall,I Build the To-Do list Manager to provide a simple and functional application that meets the specified requirements.
 
